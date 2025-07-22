@@ -39,7 +39,7 @@ local debounce = false  -- Debounce variable
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "ValoloBlox Script | Nova",
+    Name = "CounterBlox | Nova ",
     LoadingTitle = "Loading Script.",
     LoadingSubtitle = "by zxbnzlol1",
     Theme = "Default",
